@@ -4,7 +4,7 @@ Donate link: https://apasionados.es/
 Author URI: https://apasionados.es/
 Tags: admin, column, word count, posts, pages, sortable, count, words
 Requires at least: 4.0.1
-Tested up to: 6.3
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv3
